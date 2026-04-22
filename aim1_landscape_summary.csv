@@ -1,0 +1,24 @@
+key,label,europepmc_papers,biostudies_datasets
+ketogenic,Ketogenic diet,78,1118
+high_fat,High fat diet,648,1179
+caloric_restrict,Caloric restriction,100,1299
+intermit_fasting,Intermittent fasting,41,1236
+fasting,Fasting,486,1236
+choline_def,Choline deficiency,14,1310
+vit_d_def,Vitamin D deficiency,35,1440
+zinc_def,Zinc deficiency,22,2789
+iron_def,Iron deficiency,66,3154
+folate_def,Folate deficiency,37,1140
+b12_def,Vitamin B12 deficiency,5,1089
+magnesium_def,Magnesium deficiency,4,1617
+selenium_def,Selenium deficiency,5,1818
+fructose,Fructose,112,1257
+sucrose,Sucrose / high sugar,434,1263
+omega3,Omega-3 / DHA,338,1102
+western_diet,Western diet,48,1195
+mediterranean,Mediterranean diet,31,1167
+protein_restrict,Protein restriction,29,1267
+methionine_restr,Methionine restriction,11,1271
+high_salt,High salt / sodium,43,1841
+resveratrol,Resveratrol,159,1264
+curcumin,Curcumin,170,1227
